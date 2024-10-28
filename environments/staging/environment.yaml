@@ -4,10 +4,10 @@
 # change 2
 # change 3
 #
-version: d710a934-fedb-4c8f-8b30-22ef7400bd2d
+version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  version: "d710a934-fedb-4c8f-8b30-22ef7400bd2d"
 
   # number of instances
   instances:
